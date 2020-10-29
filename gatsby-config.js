@@ -6,7 +6,7 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
   {
-  pathPrefix: "/trying",
+  pathPrefix: "/mysite",
   }
   siteMetadata: {
     // You can overwrite values here that are used for the SEO component
